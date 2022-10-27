@@ -21,6 +21,8 @@ def main():
 
 import sys
 
+from functools import *
+from itertools import *
 from math import *
 from collections import *
 from bisect import *

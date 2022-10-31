@@ -4,7 +4,7 @@ def main():
     pass
 
 
-read, write, flush = sys.stdin.readline, sys.stdout.write, sys.stdout.flush
+stdin = sys.stdin
 
 if __name__ == '__main__':
     main()
